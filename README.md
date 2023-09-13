@@ -13,9 +13,9 @@ finally after applying our infrastructure we can go to bucket properties to get 
 
 ## Some screenshots:
 
-![screnshot1!](/screenshots/Screenshot3.png "Screenshot1.png")
+![screnshot1!](/screenshots/Screenshot1.png "Screenshot1.png")
 
-![screnshot2!](/screenshots/Screenshot3.png "Screenshot2.png")
+![screnshot2!](/screenshots/Screenshot2.png "Screenshot2.png")
 
 
 ![screnshot3!](/screenshots/Screenshot3.png "Screenshot3.png")
